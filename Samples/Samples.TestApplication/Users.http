@@ -1,0 +1,8 @@
+GET https://localhost:5001/users
+Accept: application/json
+
+#####
+POST https://localhost:5001/users
+Content-Type: application/json
+
+"johndoe"
